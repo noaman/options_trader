@@ -1,0 +1,186 @@
+Unnamed: 0,fivedayoichange,fivedaypricechange,fivedayvolumechange,futuresPrice,ivchange,mediumtermoutlook,onedayoichange,onedaypricechange,onedayvolumechange,shorttermoutlook,ticker,volper
+0,-4.63,0.99,76.99,19732.85,6.03,Short Covering,1.16,-0.05,-33.35,Short Buildup,NIFTY,9.13
+1,-8.94,0.79,78.23,44357.85,12.34,Short Covering,-1.07,-0.08,-35.69,Long Unwinding,BANKNIFTY,5.95
+2,5.49,3.37,115.43,490.1,4.1,Significant Long Buildup,0.8,0.81,80.55,Long Buildup,AARTIIND,72.62
+3,-11.57,4.54,154.68,4285.95,5.33,Significant Short Covering,1.8,1.33,133.72,Long Buildup,ABB,28.57
+4,11.43,-2.58,209.58,22394.8,11.16,Significant Short Buildup,-0.47,-0.12,192.74,Long Unwinding,ABBOTINDIA,59.13
+5,3.44,3.05,70.77,180.8,13.85,Long Buildup,0.11,-0.14,-14.76,Short Buildup,ABCAPITAL,8.33
+6,3.39,5.45,179.41,227.25,7.2,Long Buildup,1.1,1.97,221.59,Long Buildup,ABFRL,77.38
+7,-0.16,3.06,41.37,2031.35,-2.25,Short Covering,0.01,0.92,-40.0,Long Buildup,ACC,11.31
+8,3.83,-0.61,19.57,2437.95,12.67,Short Buildup,0.27,-0.94,-86.91,Short Buildup,ADANIENT,8.73
+9,-0.69,1.86,48.26,806.2,10.08,Short Covering,0.96,-1.26,-46.64,Short Buildup,ADANIPORTS,34.52
+10,-9.69,1.72,48.77,3618.0,12.8,Short Covering,-0.37,0.11,-66.69,Short Covering,ALKEM,13.49
+11,-2.26,2.71,25.68,442.7,5.38,Short Covering,0.2,0.33,-50.14,Long Buildup,AMBUJACEM,8.73
+12,11.57,-0.68,24.37,5021.65,2.84,Short Buildup,0.48,-0.27,-76.59,Short Buildup,APOLLOHOSP,17.46
+13,19.04,1.94,66.64,379.05,5.48,Long Buildup,3.89,-0.32,3.11,Short Buildup,APOLLOTYRE,33.73
+14,1.33,2.76,127.94,176.9,5.16,Long Buildup,1.99,0.26,12.46,Long Buildup,ASHOKLEY,45.63
+15,7.23,-1.67,103.27,3113.1,9.32,Short Buildup,2.48,-1.43,0.3,Significant Short Buildup,ASIANPAINT,58.73
+16,6.83,4.79,119.9,1955.2,13.74,Significant Long Buildup,2.03,0.79,104.94,Long Buildup,ASTRAL,55.56
+17,23.79,-0.12,95.37,6863.0,31.23,Short Buildup,3.8,-0.54,36.8,Short Buildup,ATUL,73.81
+18,1.54,-0.27,304.2,707.85,8.89,Short Buildup,3.61,-1.14,263.46,Significant Short Buildup,AUBANK,53.17
+19,7.33,-0.41,104.12,911.3,7.94,Short Buildup,0.62,-1.11,62.07,Short Buildup,AUROPHARMA,22.62
+20,0.31,0.69,54.36,1007.5,2.93,Long Buildup,-1.81,1.01,-71.39,Short Covering,AXISBANK,27.38
+21,7.48,1.35,73.99,5095.0,18.7,Long Buildup,0.18,0.48,-33.54,Long Buildup,BAJAJ-AUTO,20.63
+22,-8.54,1.44,423.27,1646.45,5.98,Short Covering,0.81,-0.05,340.57,Short Buildup,BAJAJFINSV,9.52
+23,7.28,-0.12,75.99,8052.0,13.98,Short Buildup,0.63,-0.33,-10.27,Short Buildup,BAJFINANCE,22.22
+24,-3.25,2.21,102.67,2593.95,18.01,Short Covering,-3.19,0.08,15.26,Short Covering,BALKRISIND,54.37
+25,12.03,-0.94,14.01,422.5,3.51,Short Buildup,-0.72,1.26,259.62,Short Covering,BALRAMCHIN,9.52
+26,-1.76,-0.83,110.85,244.65,4.62,Long Unwinding,-0.39,1.83,-47.14,Short Covering,BANDHANBNK,47.62
+27,20.41,-3.06,30.47,206.0,4.49,Significant Short Buildup,-0.39,0.96,-73.98,Short Covering,BANKBARODA,21.83
+28,11.76,0.7,67.43,1632.9,2.66,Long Buildup,1.02,0.88,-39.44,Long Buildup,BATAINDIA,19.44
+29,7.92,0.92,85.94,137.55,15.44,Long Buildup,2.08,-0.25,22.13,Short Buildup,BEL,7.54
+30,7.88,0.72,127.65,568.0,11.41,Long Buildup,3.49,0.16,12.33,Long Buildup,BERGEPAINT,61.11
+31,-4.1,3.41,41.54,1124.2,3.72,Short Covering,0.07,0.38,-46.7,Long Buildup,BHARATFORG,9.52
+32,14.05,2.44,38.37,948.35,5.84,Significant Long Buildup,1.98,-0.85,-58.65,Short Buildup,BHARTIARTL,35.71
+33,2.95,3.11,9.77,130.95,17.41,Long Buildup,-2.3,1.99,-30.91,Short Covering,BHEL,13.49
+34,19.69,-2.85,91.66,254.25,9.44,Significant Short Buildup,2.33,-0.41,-25.71,Short Buildup,BIOCON,24.21
+35,20.76,7.26,54.91,20639.5,3.74,Significant Long Buildup,-2.97,1.01,-56.18,Short Covering,BOSCHLTD,44.25
+36,1.64,1.85,94.81,347.55,8.93,Long Buildup,2.16,-0.13,19.99,Short Buildup,BPCL,40.08
+37,11.75,0.92,98.09,4583.25,3.36,Long Buildup,3.54,0.18,-20.4,Long Buildup,BRITANNIA,44.44
+38,-0.66,5.09,61.9,544.05,6.91,Short Covering,-1.51,0.02,-8.12,Short Covering,BSOFT,34.52
+39,0.99,1.65,65.61,372.0,6.82,Long Buildup,-0.26,1.45,-53.36,Short Covering,CANBK,45.63
+40,10.1,-1.41,92.38,740.8,15.17,Short Buildup,2.63,-0.95,-3.07,Short Buildup,CANFINHOME,26.59
+41,32.76,8.04,204.86,296.2,14.94,Significant Long Buildup,4.72,1.37,128.08,Significant Long Buildup,CHAMBLFERT,98.81
+42,-1.4,2.72,72.41,1250.2,6.74,Short Covering,2.42,-0.49,-5.84,Short Buildup,CHOLAFIN,26.98
+43,0.08,0.17,53.68,1166.6,8.05,Long Buildup,-0.2,-0.17,-51.33,Long Unwinding,CIPLA,6.35
+44,-1.01,8.27,73.33,312.1,8.42,Short Covering,4.43,1.3,0.02,Significant Long Buildup,COALINDIA,66.67
+45,12.11,-1.84,61.96,5054.75,6.34,Short Buildup,1.16,0.85,-45.49,Long Buildup,COFORGE,68.65
+46,2.77,4.26,85.71,2073.85,11.74,Long Buildup,0.63,1.4,8.54,Long Buildup,COLPAL,57.94
+47,8.19,1.07,65.0,718.0,11.65,Long Buildup,1.27,0.65,-52.33,Long Buildup,CONCOR,36.51
+48,3.68,-0.44,121.93,1159.35,10.66,Short Buildup,3.58,0.42,28.73,Long Buildup,COROMANDEL,49.6
+49,-0.48,1.58,142.63,301.45,5.66,Short Covering,1.21,0.23,132.15,Long Buildup,CROMPTON,20.63
+50,-5.02,10.35,54.62,139.15,7.12,Significant Short Covering,1.67,1.27,19.6,Long Buildup,CUB,54.76
+51,-1.2,1.44,86.88,1724.0,3.12,Short Covering,-0.01,0.08,5.68,Short Covering,CUMMINSIND,20.24
+52,9.71,-0.94,107.13,538.35,3.17,Short Buildup,2.98,-0.4,-16.31,Short Buildup,DABUR,38.49
+53,26.08,4.12,593.98,2320.05,-8.27,Significant Long Buildup,8.94,1.41,485.17,Significant Long Buildup,DALBHARAT,100.0
+54,23.69,1.54,52.16,2109.0,5.59,Long Buildup,0.29,1.19,-22.74,Long Buildup,DEEPAKNTR,44.44
+55,14.83,-9.12,58.33,129.0,42.04,Significant Short Buildup,-6.3,-8.09,328.16,Significant Long Unwinding,DELTACORP,35.71
+56,11.5,-1.95,202.23,3649.0,17.03,Short Buildup,11.17,-2.65,222.35,Significant Short Buildup,DIVISLAB,57.54
+57,5.67,5.23,225.88,5395.0,9.12,Significant Long Buildup,4.17,0.9,65.47,Long Buildup,DIXON,69.05
+58,-4.8,4.82,26.02,568.35,8.4,Short Covering,-1.53,-0.21,-74.22,Long Unwinding,DLF,31.35
+59,3.94,-0.28,53.45,5498.1,10.17,Short Buildup,0.36,0.34,-44.01,Long Buildup,DRREDDY,13.49
+60,4.99,0.95,32.84,3493.0,4.77,Long Buildup,0.2,0.29,-62.02,Long Buildup,EICHERMOT,7.54
+61,5.42,5.01,28.58,3370.6,7.68,Significant Long Buildup,-0.14,-0.3,-52.49,Long Unwinding,ESCORTS,58.73
+62,-0.39,3.8,88.57,265.2,9.05,Short Covering,-3.49,0.66,32.32,Short Covering,EXIDEIND,34.13
+63,21.81,2.52,176.79,148.75,-6.14,Significant Long Buildup,13.97,-0.8,22.58,Short Buildup,FEDERALBNK,98.81
+64,12.79,6.93,131.35,130.4,6.95,Significant Long Buildup,4.35,1.32,-17.78,Long Buildup,GAIL,79.37
+65,5.54,1.29,88.62,797.95,8.5,Long Buildup,0.13,-0.37,-37.92,Short Buildup,GLENMARK,31.35
+66,3.45,1.47,55.07,58.7,10.37,Long Buildup,1.78,-1.26,-20.68,Short Buildup,GMRINFRA,10.32
+67,24.22,8.96,603.91,668.5,8.18,Significant Long Buildup,20.73,5.04,308.31,Significant Long Buildup,GNFC,98.81
+68,-2.47,1.72,82.28,985.75,8.82,Short Covering,0.41,0.24,-13.33,Long Buildup,GODREJCP,11.9
+69,-2.97,4.17,31.4,1701.0,9.82,Short Covering,0.92,0.63,-53.74,Long Buildup,GODREJPROP,38.49
+70,2.42,-0.81,64.43,353.75,8.08,Short Buildup,1.95,-0.14,-28.98,Short Buildup,GRANULES,36.11
+71,-3.29,4.57,84.82,1978.8,8.44,Short Covering,1.87,-0.28,29.96,Short Buildup,GRASIM,56.35
+72,7.09,0.5,86.19,425.85,11.9,Long Buildup,2.92,-0.21,-9.12,Short Buildup,GUJGASLTD,41.07
+73,-3.73,2.45,64.2,1970.75,11.04,Short Covering,3.02,-0.39,-29.65,Short Buildup,HAL,11.51
+74,4.77,1.74,140.13,1414.0,18.45,Long Buildup,2.0,1.52,53.74,Significant Long Buildup,HAVELLS,62.3
+75,-2.34,1.18,52.42,1259.5,-2.59,Short Covering,-0.11,0.91,-68.95,Short Covering,HCLTECH,67.06
+76,-5.0,6.37,58.56,2864.55,4.46,Significant Short Covering,-1.95,0.09,-71.09,Short Covering,HDFCAMC,56.35
+77,-2.48,0.9,133.27,1533.2,16.57,Short Covering,2.42,-0.2,-21.85,Short Buildup,HDFCBANK,63.49
+78,12.98,2.02,135.3,630.5,-0.71,Significant Long Buildup,2.56,0.78,-43.53,Long Buildup,HDFCLIFE,74.6
+79,9.27,7.49,124.36,3172.85,11.69,Significant Long Buildup,11.89,2.05,168.66,Significant Long Buildup,HEROMOTOCO,82.94
+80,14.61,2.77,63.04,484.85,6.09,Significant Long Buildup,-0.29,0.6,-32.62,Short Covering,HINDALCO,36.51
+81,-1.69,6.38,18.92,159.3,3.75,Short Covering,-0.87,1.37,14.66,Short Covering,HINDCOPPER,12.7
+82,-1.75,1.9,89.36,256.85,7.35,Short Covering,0.08,0.08,26.07,Long Buildup,HINDPETRO,42.06
+83,6.66,1.81,57.72,2559.9,20.13,Long Buildup,1.79,-0.39,-41.41,Short Buildup,HINDUNILVR,40.87
+84,-1.64,-0.95,42.76,171.5,-4.16,Long Unwinding,-0.03,0.09,-15.25,Short Covering,IBULHSGFIN,5.16
+85,-4.96,1.36,38.03,952.65,12.73,Short Covering,1.08,-0.12,-70.2,Short Buildup,ICICIBANK,6.75
+86,2.5,2.91,154.32,1338.15,16.1,Long Buildup,5.54,1.42,52.37,Significant Long Buildup,ICICIGI,50.6
+87,56.11,-2.29,84.1,531.6,7.63,Significant Short Buildup,1.16,1.51,59.81,Long Buildup,ICICIPRULI,59.13
+88,-4.91,7.27,82.02,11.8,5.65,Short Covering,1.56,-2.07,-24.46,Short Buildup,IDEA,73.02
+89,-4.79,2.32,58.45,125.6,7.46,Short Covering,-0.75,0.24,-18.01,Short Covering,IDFC,5.95
+90,1.11,2.01,120.64,91.2,7.23,Long Buildup,1.22,0.83,100.75,Long Buildup,IDFCFIRSTB,28.57
+91,0.32,2.65,263.44,135.35,6.85,Long Buildup,-1.13,0.3,137.93,Short Covering,IEX,46.83
+92,5.17,4.66,111.28,482.55,3.14,Significant Long Buildup,2.57,1.8,2.08,Significant Long Buildup,IGL,66.67
+93,13.58,0.06,40.24,417.55,8.83,Long Buildup,0.79,0.35,-54.16,Long Buildup,INDHOTEL,16.67
+94,15.7,-2.94,8.49,219.2,7.94,Significant Short Buildup,-1.38,-1.9,-34.41,Long Unwinding,INDIACEM,11.51
+95,16.82,0.97,253.5,2833.1,10.97,Long Buildup,2.27,0.04,275.59,Long Buildup,INDIAMART,43.65
+96,34.33,4.72,27.99,2596.95,5.25,Significant Long Buildup,2.33,-0.81,-79.72,Short Buildup,INDIGO,25.79
+97,1.63,1.05,35.57,1448.25,12.56,Long Buildup,1.0,-1.21,-80.62,Short Buildup,INDUSINDBK,27.38
+98,-6.5,4.7,78.34,188.05,5.47,Significant Short Covering,1.33,-1.78,20.99,Short Buildup,INDUSTOWER,60.32
+99,23.68,-3.71,25.3,1414.0,0.14,Significant Short Buildup,1.3,-0.04,-83.74,Short Buildup,INFY,36.9
+100,-6.99,3.59,104.1,90.95,9.81,Significant Short Covering,-0.93,0.0,-11.15,Long Unwinding,IOC,19.44
+101,19.01,2.56,314.65,958.6,9.14,Significant Long Buildup,8.06,0.37,320.56,Long Buildup,IPCALAB,73.21
+102,8.17,-0.04,168.58,705.5,9.24,Short Buildup,0.95,-0.08,108.46,Short Buildup,IRCTC,17.06
+103,-10.27,1.72,27.63,449.3,13.59,Short Covering,1.38,0.19,-76.42,Long Buildup,ITC,5.16
+104,7.29,2.49,47.88,694.55,6.38,Significant Long Buildup,-0.93,1.63,-63.47,Short Covering,JINDALSTEL,29.37
+105,4.28,4.43,238.22,3236.55,13.23,Long Buildup,3.21,-0.43,161.21,Short Buildup,JKCEMENT,71.03
+106,-4.17,4.04,119.64,791.3,9.54,Short Covering,0.24,1.78,35.09,Long Buildup,JSWSTEEL,49.21
+107,5.04,-0.55,463.75,529.9,10.17,Short Buildup,2.9,-1.29,491.84,Significant Short Buildup,JUBLFOOD,44.84
+108,-12.38,1.7,57.14,1753.2,10.39,Short Covering,0.35,-0.52,-44.31,Short Buildup,KOTAKBANK,6.35
+109,-15.18,2.55,20.35,134.85,23.83,Significant Short Covering,-1.91,0.9,59.65,Short Covering,L&TFH,6.75
+110,17.59,2.62,93.41,2554.35,7.11,Significant Long Buildup,3.69,0.2,-23.77,Long Buildup,LALPATHLAB,51.19
+111,45.26,-0.88,602.81,395.05,26.82,Short Buildup,25.4,-2.15,296.37,Significant Short Buildup,LAURUSLABS,95.63
+112,-0.01,1.14,69.78,472.25,6.71,Short Covering,0.37,0.4,-7.45,Long Buildup,LICHSGFIN,23.21
+113,-2.48,0.97,47.68,3110.0,10.1,Short Covering,2.42,0.4,-54.44,Long Buildup,LT,18.25
+114,9.29,-0.78,113.74,5185.1,5.83,Short Buildup,3.49,1.67,-10.38,Long Buildup,LTIM,0.0
+115,6.73,-0.2,74.92,4703.8,13.94,Short Buildup,6.37,-0.52,-31.83,Short Buildup,LTTS,24.21
+116,16.49,4.3,156.81,1204.0,4.78,Significant Long Buildup,8.96,1.03,35.0,Significant Long Buildup,LUPIN,59.92
+117,-0.44,3.45,73.82,1574.2,11.04,Short Covering,-0.1,0.4,-28.68,Short Covering,M&M,10.32
+118,4.06,0.86,128.7,286.3,9.72,Long Buildup,2.06,-0.02,18.84,Short Buildup,M&MFIN,50.0
+119,-4.94,2.89,21.28,144.0,8.41,Short Covering,-0.01,-1.06,-46.43,Long Unwinding,MANAPPURAM,5.56
+120,-1.8,0.46,41.53,542.95,12.96,Short Covering,-0.06,0.09,-61.04,Short Covering,MARICO,11.9
+121,18.9,4.69,91.67,10735.5,9.61,Significant Long Buildup,0.23,0.06,-34.66,Long Buildup,MARUTI,59.13
+122,-2.91,6.6,39.42,1082.5,15.89,Short Covering,0.99,1.23,-74.23,Long Buildup,MCDOWELL-N,44.05
+123,-4.01,6.15,228.99,2197.0,2.35,Short Covering,34.18,4.46,285.07,Significant Long Buildup,MCX,97.22
+124,12.94,1.91,150.57,1534.4,11.68,Long Buildup,7.94,-1.13,-32.83,Short Buildup,METROPOLIS,78.97
+125,-10.39,2.32,39.12,920.7,16.66,Significant Short Covering,0.02,0.46,-42.49,Long Buildup,MFSL,9.52
+126,-3.11,2.1,93.18,1137.75,8.23,Short Covering,2.44,0.61,-41.16,Long Buildup,MGL,34.92
+127,-4.69,7.32,305.16,97.5,5.35,Short Covering,-3.0,2.96,599.53,Significant Short Covering,MOTHERSON,62.7
+128,10.74,-4.52,72.14,2349.95,10.13,Significant Short Buildup,2.82,-1.08,-49.06,Short Buildup,MPHASIS,63.49
+129,0.95,1.77,117.22,109504.25,6.33,Long Buildup,2.19,0.16,41.2,Long Buildup,MRF,28.57
+130,-4.12,4.44,72.81,1245.15,10.64,Short Covering,-0.64,0.85,10.41,Short Covering,MUTHOOTFIN,47.62
+131,16.54,7.46,38.83,100.8,8.33,Significant Long Buildup,1.71,1.56,-65.33,Long Buildup,NATIONALUM,65.08
+132,5.37,-2.21,79.95,4123.1,7.0,Significant Short Buildup,1.07,-0.39,-60.63,Short Buildup,NAUKRI,17.86
+133,1.96,-0.66,80.75,3700.25,12.24,Short Buildup,1.43,0.21,-12.99,Long Buildup,NAVINFLUOR,50.0
+134,12.8,0.67,252.78,23132.25,24.74,Long Buildup,17.52,-1.85,21.93,Significant Short Buildup,NESTLEIND,87.3
+135,2.35,15.39,71.65,165.35,7.42,Long Buildup,4.61,3.25,-40.09,Long Buildup,NMDC,93.65
+136,-7.37,3.7,48.08,243.7,2.53,Significant Short Covering,-0.1,0.62,-58.66,Short Covering,NTPC,36.51
+137,3.67,1.28,58.9,1134.45,-1.98,Long Buildup,0.51,0.27,-22.71,Long Buildup,OBEROIRLTY,30.75
+138,-4.27,0.37,101.02,4119.5,14.44,Short Covering,-1.79,0.43,85.85,Short Covering,OFSS,44.25
+139,10.01,2.47,82.65,186.9,-3.52,Significant Long Buildup,11.38,0.95,-10.09,Long Buildup,ONGC,67.46
+140,0.48,-1.08,43.65,39083.8,14.31,Short Buildup,0.84,-0.63,-60.38,Short Buildup,PAGEIND,29.17
+141,3.92,1.0,211.64,1057.75,8.63,Long Buildup,0.75,0.06,228.23,Long Buildup,PEL,15.87
+142,13.61,2.93,61.21,5784.95,8.45,Significant Long Buildup,1.37,0.12,-34.27,Long Buildup,PERSISTENT,36.9
+143,29.4,3.03,54.72,231.0,10.37,Significant Long Buildup,2.0,-0.22,-73.65,Short Buildup,PETRONET,55.56
+144,13.04,4.77,116.89,252.8,8.34,Significant Long Buildup,9.4,0.86,36.93,Long Buildup,PFC,63.89
+145,-2.63,0.15,69.94,2433.1,12.95,Short Covering,3.96,-1.39,-8.64,Short Buildup,PIDILITIND,34.13
+146,-3.48,2.23,115.8,3511.85,11.7,Short Covering,0.38,0.54,130.67,Long Buildup,PIIND,36.11
+147,-6.8,2.11,25.11,75.0,8.19,Significant Short Covering,-0.22,-0.4,-43.78,Long Unwinding,PNB,5.56
+148,13.89,4.71,277.19,5442.95,16.74,Significant Long Buildup,4.64,2.04,104.12,Significant Long Buildup,POLYCAB,92.86
+149,-6.23,3.27,101.49,203.45,3.39,Significant Short Covering,-0.93,0.77,-6.36,Short Covering,POWERGRID,46.03
+150,14.36,4.29,70.05,1748.5,24.91,Significant Long Buildup,4.14,-0.61,-52.35,Short Buildup,PVRINOX,0.0
+151,16.37,5.78,90.07,1002.0,5.76,Significant Long Buildup,5.52,0.49,63.02,Long Buildup,RAMCOCEM,69.84
+152,1.44,-0.41,146.31,244.0,13.01,Short Buildup,1.22,-1.05,92.87,Short Buildup,RBLBANK,26.98
+153,5.67,4.74,120.12,295.0,8.98,Significant Long Buildup,3.7,0.56,15.96,Long Buildup,RECLTD,63.1
+154,-2.79,1.8,64.59,2349.3,9.95,Short Covering,1.01,-0.11,-41.85,Short Buildup,RELIANCE,6.75
+155,0.66,3.64,11.99,89.65,12.1,Long Buildup,-1.87,0.79,-87.6,Short Covering,SAIL,8.33
+156,2.61,1.99,130.66,799.9,7.13,Long Buildup,-0.34,0.93,67.3,Short Covering,SBICARD,46.03
+157,-7.65,3.79,73.18,1327.0,9.75,Significant Short Covering,-0.14,0.76,-30.82,Short Covering,SBILIFE,30.16
+158,15.22,-1.49,75.59,576.9,9.17,Short Buildup,-0.12,0.03,-55.87,Short Covering,SBIN,26.98
+159,9.2,3.6,240.64,26716.35,7.05,Significant Long Buildup,11.48,-0.51,158.09,Short Buildup,SHREECEM,64.68
+160,1.71,1.76,68.33,3609.0,8.36,Long Buildup,0.33,0.39,1.83,Long Buildup,SIEMENS,12.7
+161,10.17,2.16,267.24,2256.05,5.73,Significant Long Buildup,0.88,-0.1,323.39,Short Buildup,SRF,29.17
+162,-3.67,2.62,94.23,1874.75,8.39,Short Covering,1.16,-0.51,80.91,Short Buildup,SHRIRAMFIN,0.0
+163,-4.53,0.69,30.03,1135.0,11.86,Short Covering,0.65,-0.95,-81.5,Short Buildup,SUNPHARMA,10.71
+164,0.67,4.37,25.85,640.7,6.45,Long Buildup,-3.75,1.02,25.79,Significant Short Covering,SUNTV,14.29
+165,6.17,-0.57,155.65,778.35,22.67,Short Buildup,-1.54,-0.29,-43.89,Long Unwinding,SYNGENE,71.43
+166,15.31,3.62,47.58,1042.7,7.83,Significant Long Buildup,-1.14,0.83,-28.19,Short Covering,TATACHEM,43.65
+167,10.6,-0.77,84.14,1801.25,11.75,Short Buildup,1.7,-0.56,5.13,Short Buildup,TATACOMM,40.08
+168,4.29,2.69,55.22,908.6,13.19,Long Buildup,4.4,-0.59,-78.24,Short Buildup,TATACONSUM,71.03
+169,16.08,7.88,86.56,667.1,13.2,Significant Long Buildup,4.32,-0.23,-67.27,Short Buildup,TATAMOTORS,83.33
+170,1.72,1.81,44.63,255.55,2.86,Long Buildup,0.04,0.27,-33.56,Long Buildup,TATAPOWER,21.43
+171,7.0,2.42,1363.44,127.05,4.33,Significant Long Buildup,-1.21,1.56,1187.32,Short Covering,TATASTEEL,34.52
+172,14.56,-2.96,24.67,3521.0,8.26,Significant Short Buildup,4.38,-1.2,-65.5,Short Buildup,TCS,43.25
+173,12.47,-2.15,88.19,1187.95,10.7,Significant Short Buildup,6.48,-0.83,-41.6,Short Buildup,TECHM,40.08
+174,-3.68,0.92,120.02,3311.05,10.0,Short Covering,2.57,0.79,-0.17,Long Buildup,TITAN,59.13
+175,-8.36,0.96,471.77,1911.85,10.27,Short Covering,2.06,0.71,270.66,Long Buildup,TORNTPHARM,77.38
+176,11.13,1.44,57.17,2111.0,22.31,Long Buildup,1.72,0.91,-35.47,Long Buildup,TRENT,49.6
+177,16.79,5.06,36.35,1600.45,8.73,Significant Long Buildup,4.18,0.12,-51.03,Long Buildup,TVSMOTOR,41.27
+178,13.16,0.11,46.86,1567.75,4.76,Long Buildup,5.41,-1.23,-17.39,Short Buildup,UBL,76.98
+179,-6.03,2.07,172.59,8311.5,15.53,Significant Short Covering,12.77,-0.77,88.12,Short Buildup,ULTRACEMCO,70.63
+180,-1.21,3.4,111.85,632.2,7.69,Short Covering,2.21,1.38,34.76,Significant Long Buildup,UPL,60.71
+181,15.51,4.55,95.83,230.0,6.08,Significant Long Buildup,3.43,1.43,-5.21,Long Buildup,VEDL,69.44
+182,11.02,0.2,76.76,855.0,9.93,Long Buildup,0.84,0.88,-25.53,Long Buildup,VOLTAS,13.89
+183,12.47,1.07,43.2,411.65,8.88,Long Buildup,2.11,-0.02,-54.37,Short Buildup,WIPRO,16.67
+184,15.39,-2.11,38.6,590.25,1.34,Significant Short Buildup,0.4,-0.37,-69.57,Short Buildup,ZYDUSLIFE,5.56

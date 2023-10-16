@@ -1,0 +1,20 @@
+{%extends "base.html"%}
+{%load templatefunctions%}
+
+{%block content%}
+
+<div>
+    <!-- Form to get list of symbols to analyze the 20-day futures Buildup -->
+    <form method="POST" action="/gen20DFuturesBU" style="max-width: 700px;">
+        {% csrf_token %}
+
+        <div style="margin-bottom: 10px;">
+            <textarea id="symbol_list" name="symbol_list" placeholder="Enter a comma-separated symbol list" style="width: 100%; padding: 5px;" rows="4"></textarea>
+        </div>
+        <div>
+            <button type="submit" class="refresh-data" name="btnFuturesBU" style="width: 100%;">Calculate 20 Day Futures Data</button>
+        </div>
+    </form>
+</div>
+
+{%endblock%}
